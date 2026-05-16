@@ -4,13 +4,6 @@ A data science project that fetches **real-time weather data** for 6 major India
 
 ---
 
-## 📸 Output
-
-![Weather Dashboard](weather_dashboard.png)
-![Temperature Heatmap](temperature_heatmap.png)
-
----
-
 ## 📊 What It Shows
 
 - **Average Max Temperature** by city (bar chart)
